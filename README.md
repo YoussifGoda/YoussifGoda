@@ -10,9 +10,9 @@
 
 ---
 
-## 👋 Hey, I'm Youssif
+## Hey, I'm Youssif
 
-I'm a Computer Science student at **Dickinson College** (graduating May 2026), currently a **Software Engineering Intern at GE HealthCare**. I love building things that matter — from AI-powered chatbots and cloud infrastructure tools to full-stack web apps used by real people on campus.
+I'm a Senior Computer Science student at **Dickinson College** (graduating May 2026), and an upcoming **Software Engineering EEDP at GE HealthCare**. I love building things that matter from AI-powered chatbots and cloud infrastructure tools to full-stack web apps used by real people on campus.
 
 - 🏢 Building a **Terraform provider + Go API client** at GE HealthCare to automate tenant onboarding
 - 🤖 Built an **Arabic AI chatbot** with LangChain + LLMs that boosted student engagement by 70%
@@ -65,11 +65,7 @@ I'm a Computer Science student at **Dickinson College** (graduating May 2026), c
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussifGoda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussifGoda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" width="48%"/>
-</div>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YoussifGoda&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="60%"/>
