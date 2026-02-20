@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:001d3d,70:003566,100:00b4d8&height=300&section=header&text=Youssif%20Goda&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud%20Infrastructure&descSize=22&descAlignY=72&fontAlignY=48&stroke=00b4d8&strokeWidth=2)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+scalable+systems+that+matter+%F0%9F%9A%80;Go+%7C+Python+%7C+TypeScript+%7C+Cloud+%7C+AI;Incoming+EEDP+Software+Engineer+%40+GE+HealthCare)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+scalable+systems+that+matter+%F0%9F%9A%80;Go+%7C+Python+%7C+TypeScript+%7C+Cloud+%7C+AI;Incoming+EEDP+Software+Engineer+%40+GE+HealthCare)](https://git.io/typing-svg)
 
 <br/>
 
@@ -183,11 +183,6 @@ Researched Hugging Face Transformers, BERT, and GPT for AI-powered code document
 ## 〔 05 〕 GITHUB STATS
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YoussifGoda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=003566" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YoussifGoda&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideNums=ffffff&sideLabels=c9d1d9" width="49%" />
-
-<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussifGoda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" width="45%" />
 
