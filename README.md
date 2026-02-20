@@ -20,7 +20,7 @@
 
 🎓 Senior Computer Science @ Dickinson College (May 2026)  
 🏥 Incoming Software Engineering EEDP @ GE HealthCare  
-🌍 English & Arabic  
+🌍 English & Arabic
 
 I design and build **scalable systems, AI-powered applications, and cloud infrastructure** that create measurable impact.
 
@@ -31,18 +31,21 @@ I design and build **scalable systems, AI-powered applications, and cloud infras
 # 💼 Engineering Impact
 
 ### 🏥 Infrastructure Automation (GE HealthCare)
+
 - Building a **Terraform provider + Go API client**
 - Automating enterprise tenant onboarding
 - Reduced provisioning time by **4+ days per organization**
 - Designed reusable IaC modules for multi-tenant scalability
 
 ### 🤖 AI-Powered Arabic Learning Assistant
+
 - Built with **LangChain + LLM APIs**
 - Implemented embeddings + retrieval pipelines
 - Increased engagement by **70%**
 - Designed conversational memory + prompt chaining
 
 ### 🏠 Housing Assignment Platform
+
 - Production React application for Dickinson Campus Life
 - Automated assignment & validation workflows
 - Saved **8+ hours per housing cycle**
@@ -53,6 +56,7 @@ I design and build **scalable systems, AI-powered applications, and cloud infras
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Languages
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -63,6 +67,7 @@ I design and build **scalable systems, AI-powered applications, and cloud infras
 ---
 
 ## ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -73,12 +78,12 @@ I design and build **scalable systems, AI-powered applications, and cloud infras
 
 # 🚀 Featured Work
 
-| Project | Impact | Stack |
-|----------|--------|-------|
-| 💰 AI Salary Predictor | 73% ML model accuracy deployed as web app | Python · Flask · Scikit-learn |
-| 🏠 Housing Platform | Production tool used by administrators | React · AWS |
-| 🤖 Arabic AI Assistant | Retrieval-augmented conversational system | LangChain · LLM APIs |
-| ☁️ Terraform Automation Toolkit | Enterprise onboarding automation | Go · Terraform |
+| Project                         | Impact                                    | Stack                         |
+| ------------------------------- | ----------------------------------------- | ----------------------------- |
+| 💰 AI Salary Predictor          | 73% ML model accuracy deployed as web app | Python · Flask · Scikit-learn |
+| 🏠 Housing Platform             | Production tool used by administrators    | React · AWS                   |
+| 🤖 Arabic AI Assistant          | Retrieval-augmented conversational system | LangChain · LLM APIs          |
+| ☁️ Terraform Automation Toolkit | Enterprise onboarding automation          | Go · Terraform                |
 
 ---
 
@@ -96,7 +101,7 @@ I design and build **scalable systems, AI-powered applications, and cloud infras
 
 <div align="center">
 
-![Snake animation](https://github.com/YoussifGoda/YoussifGoda/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YoussifGoda/YoussifGoda/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
