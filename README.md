@@ -183,11 +183,11 @@ Researched Hugging Face Transformers, BERT, and GPT for AI-powered code document
 ## 〔 05 〕 GITHUB STATS
 
 <div align="center">
-
+<img src="https://github-readme-stats.vercel.app/api?username=YoussifGoda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" width="49%" />
+<img src="https://streak-stats.demolab.com?user=YoussifGoda&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideNums=ffffff&sideLabels=c9d1d9" width="49%" />
+<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussifGoda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" width="45%" />
-
 </div>
-
 <br/>
 
 ---
