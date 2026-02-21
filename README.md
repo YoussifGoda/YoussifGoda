@@ -52,7 +52,7 @@ focus:      Scalable Systems  •  Production AI  •  Cloud Infrastructure
 
 <table>
 <tr>
-<td width="120" align="center"><b>2025 →</b><br/><sub>Present</sub></td>
+<td width="120" align="center"><b>May, 2025 →</b><br/><sub>Aug, 2025</sub></td>
 <td>
 <b>🏥 GE HealthCare</b> — EEDP Software Engineering Intern<br/>
 <sub>Waukesha, WI</sub><br/><br/>
