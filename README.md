@@ -35,7 +35,7 @@
 
 ```yaml
 name:       Youssif Goda
-location:   Carlisle, PA → Waukesha, WI (Summer 2025)
+location:   Carlisle, PA → Waukesha, WI (Summer 2026)
 education:  B.S. Computer Science @ Dickinson College (May 2026)
 next_role:  EEDP Software Engineering @ GE HealthCare
 languages:  English  |  Arabic
